@@ -1,0 +1,26 @@
+{
+  "name": "shapes",
+  "version": "1.0.0",
+  "description": "ShapesHW",
+  "main": "mainShapes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AliciaTapia/shapes.git"
+  },
+  "keywords": [
+    "shapes",
+    "triangle"
+  ],
+  "author": "AliciaTapia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AliciaTapia/shapes/issues"
+  },
+  "homepage": "https://github.com/AliciaTapia/shapes#readme",
+  "dependencies": {
+    "inquirer": "^3.0.1"
+  }
+}
